@@ -1,0 +1,17 @@
+@media (min-width:768px) {
+body {
+background: url('https://www.linkpicture.com/q/pinkcss.jpg') center center fixed !important;
+background-repeat: no-repeat;
+background-size: 100%;
+}
+}
+
+@media (max-width: 768px) {
+body {
+background: url('https://www.linkpicture.com/q/pinkcss.jpg') center center fixed !important;
+background-repeat: no-repeat;
+background-size: 100%;
+width: auto !important;
+min-width: 600px !important;
+}
+}
